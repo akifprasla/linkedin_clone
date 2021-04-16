@@ -1,3 +1,10 @@
+This project was made as a practice, enhancement and showcasing my skills in ReactJs.
+
+Implemented using ReactJs, Redux, Firebase.
+
+Authentication and data management was done through Firebase.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
